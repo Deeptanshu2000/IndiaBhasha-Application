@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761580715736",
+    "firebase_url": "https://indiabiotics-application.firebaseio.com",
+    "project_id": "indiabiotics-application",
+    "storage_bucket": "indiabiotics-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761580715736:android:5099ef77916fe160b4a1ad",
+        "android_client_info": {
+          "package_name": "com.indiabiotics.flutter_indiabiotics_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761580715736-rlull05bl0b2auvbl2hlekv9s3g6kglm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcBQaFALBl2DcUisMGThkRlO5T9fDTTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761580715736-rlull05bl0b2auvbl2hlekv9s3g6kglm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
